@@ -1,0 +1,44 @@
+{
+    "Agenda": [
+        {
+            "id": 1,
+            "name": "Elias Braga",
+            "email": "eliasjrb@gmail.com",
+            "horario": "12:15",
+            "atendente": "Mestre na navalha",
+            "fotoAtendente":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt-br.facebook.com%2Fpages%2FNavalha-de-Mestre%2F287256415329273&psig=AOvVaw1DLekAEnMBK30TaRYwKyX-&ust=1620072995309000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjA8L3oq_ACFQAAAAAdAAAAABAD"
+        },
+        {
+            "id": 2,
+            "name": "João",
+            "email": "joaob@gmail.com",
+            "horario": "12:45",
+            "atendente": "Mestre na navalha",
+            "fotoAtendente":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt-br.facebook.com%2Fpages%2FNavalha-de-Mestre%2F287256415329273&psig=AOvVaw1DLekAEnMBK30TaRYwKyX-&ust=1620072995309000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjA8L3oq_ACFQAAAAAdAAAAABAD"
+        },
+        {
+            "id": 3,
+            "name": "Arnaldo",
+            "email": "arnaldo@gmail.com",
+            "horario": "09:00",
+            "atendente": "Mago da tesoura",
+            "fotoAtendente":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1782445578515933&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fmagodastesourabarbeariaepub%2Fposts&tbnid=uvxtsAY7gYRR8M&vet=12ahUKEwip9frg6KvwAhXpALkGHavZA-QQMygAegQIARBn..i&docid=kme3fd2K8HIJ4M&w=600&h=600&q=mago%20da%20tesoura&ved=2ahUKEwip9frg6KvwAhXpALkGHavZA-QQMygAegQIARBn"
+        }
+        ,{
+            "id": 4,
+            "name": "Jorge Luis",
+            "email": "jorgel@gmail.com",
+            "horario": "16:005",
+            "atendente": "Pente de ouro",
+            "fotoAtendente":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fhairdressing-scissors-and-a-comb-of-gold-color-vector-id821775334&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Fvetor%2Ftesouras-de-cabeleireiro-e-um-pente-de-ouro-cor-gm821775334-133044821&tbnid=gN0JPDdOvuYBSM&vet=12ahUKEwiuj4bt6KvwAhWBDdQKHWxxDLkQMygYegUIARD8AQ..i&docid=s2CLgbWCVcrZqM&w=1023&h=1024&itg=1&q=pente%20de%20ouro&ved=2ahUKEwiuj4bt6KvwAhWBDdQKHWxxDLkQMygYegUIARD8AQ"
+        },
+        {
+            "id": 5,
+            "name": "Jeferson",
+            "email": "jeferson@gmail.com",
+            "horario": "17:50",
+            "atendente": "Pente de ouro",
+            "fotoAtendente":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fhairdressing-scissors-and-a-comb-of-gold-color-vector-id821775334&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Fvetor%2Ftesouras-de-cabeleireiro-e-um-pente-de-ouro-cor-gm821775334-133044821&tbnid=gN0JPDdOvuYBSM&vet=12ahUKEwiuj4bt6KvwAhWBDdQKHWxxDLkQMygYegUIARD8AQ..i&docid=s2CLgbWCVcrZqM&w=1023&h=1024&itg=1&q=pente%20de%20ouro&ved=2ahUKEwiuj4bt6KvwAhWBDdQKHWxxDLkQMygYegUIARD8AQ"
+        }
+    ]
+}
