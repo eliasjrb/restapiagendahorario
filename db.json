@@ -6,7 +6,7 @@
       "email": "eliasjrb@gmail.com",
       "horario": "12:15",
       "atendente": "Mestre na navalha",
-      "fotoAtendente": "assets/magoDaTesoura.png"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/mestreNaNavalha.jpg?raw=true"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "email": "joaob@gmail.com",
       "horario": "12:45",
       "atendente": "Mestre na navalha",
-      "fotoAtendente": "assets/magoDaTesoura.png"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/mestreNaNavalha.jpg?raw=true"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "email": "arnaldo@gmail.com",
       "horario": "09:00",
       "atendente": "Mago da tesoura",
-      "fotoAtendente": "assets/mestreNaNavalha.jpg"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/magoDaTesoura.png?raw=true"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "email": "jorgel@gmail.com",
       "horario": "16:005",
       "atendente": "Pente de ouro",
-      "fotoAtendente": "assets/penteDeOuro.jpg"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/penteDeOuro.jpg?raw=true"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "email": "jeferson@gmail.com",
       "horario": "17:50",
       "atendente": "Pente de ouro",
-      "fotoAtendente": "assets/penteDeOuro.jpg"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/penteDeOuro.jpg?raw=true"
     }
   ]
 }
