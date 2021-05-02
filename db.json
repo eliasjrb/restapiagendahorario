@@ -30,7 +30,7 @@
       "email": "jorgel@gmail.com",
       "horario": "16:005",
       "atendente": "Pente de ouro",
-      "fotoAtendente": "../assets/img/magoDaTesoura.png"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/penteDeOuro.jpg?raw=true"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "email": "jeferson@gmail.com",
       "horario": "17:50",
       "atendente": "Pente de ouro",
-      "fotoAtendente": "../assets/img/magoDaTesoura.png"
+      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/penteDeOuro.jpg?raw=true"
     }
   ]
 }
