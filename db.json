@@ -6,7 +6,7 @@
       "email": "eliasjrb@gmail.com",
       "horario": "12:15",
       "atendente": "Mestre na navalha",
-      "fotoAtendente": "https://github.com/eliasjrb/restapiagendahorario/blob/main/assets/img/mestreNaNavalha.jpg?raw=true"
+      "fotoAtendente": "https://raw.githubusercontent.com/eliasjrb/restapiagendahorario/main/assets/img/mestreNaNavalha.jpg"
     },
     {
       "id": 2,
